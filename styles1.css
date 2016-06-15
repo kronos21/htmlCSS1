@@ -1,0 +1,41 @@
+.image-lineup{
+    width: 95%;
+    height: 250px;
+    padding: 2px;
+    margin: 2px;
+    display: inline-block;
+}
+
+header{
+    background-color: blue;
+    position: fixed;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+}
+
+footer{
+    background-color: orange;
+    position: absolute;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family: trebuchet;
+}
+
+img{
+    border-width: thin;
+    border-style: groove;
+    border-color: grey;
+    width:25%;
+    height: 80%;
+    padding: 1px;
+    margin: 2px;
+}
+
+#firstRow{
+    margin-top: 80px;
+}
